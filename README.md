@@ -6,4 +6,5 @@ How to push code to git from hyper
 git remote add origin https://github.com/skogunde/GitHyper.git
 
 // Pushes the local repository into remote repository
+
 git push -u origin master
